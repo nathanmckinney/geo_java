@@ -1,0 +1,256 @@
+{
+  "name": "Geography Major, BA",
+  "children": [
+    {
+    "name":"Climate and Climate Change Concentration",
+    "children": [
+      {
+      "name": "Prerequisites",
+      "children": [
+        {"name": "GEOG 132- Landscapes and Environmental Change", "size": 3486},
+        {
+          "name": "Select one course:",
+          "children": [
+            {"name":"GEOG 131- Weather, Climate, and Climate Change", "size":3813},
+            {"name":"GEOG 137- Honors: Weather, Climate, and Climate Change", "size":2478}
+          ]
+          },
+          {
+            "name": "Select one course:",
+            "children": [
+              {"name":"GEOG 101- World Geography","size":3467},
+              {"name":"GEOG 111- Our Digital Earth","size":3459},
+              {"name":"GEOG 121- Human Geography:People and Places","size":3589}
+            ]
+          }
+        ]
+      },
+      {
+      "name": "Major Requirements",
+      "children" : [
+        {"name": "GEOG 311- Geovisualization and Geographic Information Science","size": 1387},
+        {"name": "GEOG 415- Quantitative Methods in Geography", "size":2390},
+        {"name": "GEOG 499- Practicing Geography", "size": 3409},
+        {
+         "name": "Select five courses (at least 15 hours)",
+          "children": [
+            {"name": "GEOG 331 - Natural Hazards", "size":9329},
+            {"name": "GEOG 333 - Climate Change and Human Response", "size": 4933},
+            {"name": "GEOG 334 - Meteorology", "size":4303},
+            {"name": "GEOG 430 - Global Environments of the Quaternary", "size":40392},
+            {"name": "GEOG 431 - Environmental History from Lake Sediments", "size":4091},
+            {"name": "GEOG 432 - Environmental History from Tree Rings", "size":3421},
+            {"name": "GEOG 434 - Climatology", "size":201232},
+            {"name": "GEOG 436 - Water Resources","size":3209},
+            {"name": "GEOG 439 - Plants, People, and Climate in North America", "size":9823},
+            {"name": "GEOG 453 - Extreme Weather Climatology", "size":5498}
+          ]
+        },
+      {"name": "Select 6 additional hours from 300-400 level geography courses", "size":4500}
+      ]
+      }
+    ]
+    },
+    {
+    "name":"Geospatial Science and Technology Concentration",
+    "children":[
+      {
+      "name": "Prerequisites",
+      "children": [
+        {"name": "GEOG 132- Landscapes and Environmental Change", "size": 3486},
+        {
+          "name": "Select one course:",
+          "children": [
+            {"name":"GEOG 131- Weather, Climate, and Climate Change", "size":3813},
+            {"name":"GEOG 137- Honors: Weather, Climate, and Climate Change", "size":2478}
+          ]
+          },
+          {
+            "name": "Select one course:",
+            "children": [
+              {"name":"GEOG 101- World Geography","size":3467},
+              {"name":"GEOG 111- Our Digital Earth","size":3459},
+              {"name":"GEOG 121- Human Geography:People and Places","size":3589}
+            ]
+          }
+        ]
+      },
+      {
+      "name": "Major Requirements",
+      "children" : [
+        {"name": "GEOG 311- Geovisualization and Geographic Information Science","size": 1387},
+        {"name": "GEOG 415- Quantitative Methods in Geography ", "size":2390},
+        {"name": "GEOG 499- Practicing Geography", "size": 3409},
+        {
+          "name": "Select five courses (at least 15 hours)",
+          "children": [
+            {"name": "GEOG 409 - GIS for Environmental and Socio-Economic Applications", "size":9329},
+            {"name": "GEOG 411 - Intermediate Geographic Information Science", "size": 4933},
+            {"name": "GEOG 413 - Remote Sensing of the Environment", "size":4303},
+            {"name": "GEOG 414 - Spatial Data Management for Socioeconomic and Environmental Applications", "size":40392},
+            {"name": "GEOG 416 - GIS Project Management", "size":4091},
+            {"name": "GEOG 420 - GIS in the Community", "size":3421},
+            {"name": "GEOG 449 - Geography of Transportation", "size":201232},
+            {"name": "GEOG 454 - GIS for Terrain Analysis","size":3209}
+          ]
+        },
+      {"name": "Select 6 additional hours from 300-400 level geography courses", "size":4500}
+      ]
+      }
+    ]
+    },
+    {
+    "name":"Landscapes and Environment Concentration",
+    "children":[
+      {
+      "name": "Prerequisites",
+      "children": [
+        {"name": "GEOG 132- Landscapes and Environmental Change", "size": 3486},
+        {
+          "name": "Select one course:",
+          "children": [
+            {"name":"GEOG 131- Weather, Climate, and Climate Change", "size":3813},
+            {"name":"GEOG 137- Honors: Weather, Climate, and Climate Change", "size":2478}
+          ]
+          },
+          {
+            "name": "Select one course:",
+            "children": [
+              {"name":"GEOG 101- World Geography","size":3467},
+              {"name":"GEOG 111- Our Digital Earth","size":3459},
+              {"name":"GEOG 121- Human Geography:People and Places","size":3589}
+            ]
+          }
+        ]
+      },
+      {
+      "name": "Major Requirements",
+      "children" : [
+        {"name": "GEOG 311- Geovisualization and Geographic Information Science","size": 1387},
+        {"name": "GEOG 415- Quantitative Methods in Geography ", "size":2390},
+        {"name": "GEOG 499- Practicing Geography", "size": 3409},
+        {
+          "name": "Select five courses (at least 15 hours)",
+          "children": [
+            {"name": "GEOG 331 - Natural Hazards", "size":9329},
+            {"name": "GEOG 345 - People and Environment", "size": 4933},
+            {"name": "GEOG 413 - Remote Sensing of the Environment", "size":4303},
+            {"name": "GEOG 431 - Environmental History from Lake Sediments", "size":40392},
+            {"name": "GEOG 433 - Landform Analysis and Landscape Planning", "size":4091},
+            {"name": "GEOG 435 - Biogeography", "size":3421},
+            {"name": "GEOG 436 - Water Resources", "size":201232},
+            {"name": "GEOG 439 - Plants, People, and Climate in North America", "size":201232},
+            {"name": "GEOG 450 - Geomorphology", "size":201232},
+            {"name": "GEOG 454 - GIS for Terrain Analysis","size":3209}
+          ]
+        },
+      {"name": "Select 6 additional hours from 300-400 level geography courses", "size":4500}
+      ]
+      }
+    ]
+    },
+    {
+    "name":"Space, Society, and Culture Concentration",
+    "children":[
+      {
+      "name": "Prerequisites",
+      "children": [
+        {"name": "GEOG 132- Landscapes and Environmental Change", "size": 3486},
+        {
+          "name": "Select one course:",
+          "children": [
+            {"name":"GEOG 131- Weather, Climate, and Climate Change", "size":3813},
+            {"name":"GEOG 137- Honors: Weather, Climate, and Climate Change", "size":2478}
+          ]
+          },
+          {
+            "name": "Select one course:",
+            "children": [
+              {"name":"GEOG 101- World Geography","size":3467},
+              {"name":"GEOG 111- Our Digital Earth","size":3459},
+              {"name":"GEOG 121- Human Geography:People and Places","size":3589}
+            ]
+          }
+        ]
+      },
+      {
+      "name": "Major Requirements",
+      "children" : [
+        {"name": "GEOG 311- Geovisualization and Geographic Information Science","size": 1387},
+        {"name": "GEOG 415- Quantitative Methods in Geography ", "size":2390},
+        {"name": "GEOG 499- Practicing Geography", "size": 3409},
+        {
+          "name": "Select five courses (at least 15 hours)",
+          "children": [
+            {"name": "GEOG 320 - Cultural Geography: Core Concepts", "size":9329},
+            {"name": "GEOG 343 - Geography of Human Rights", "size": 4933},
+            {"name": "GEOG 344 - Population Geography", "size":4303},
+            {"name": "GEOG 361 - Regional Dynamics of the United States and Canada", "size":40392},
+            {"name": "GEOG 363 - Southern Spaces and Places", "size":4091},
+            {"name": "GEOG 371 - Exploring Europe", "size":3421},
+            {"name": "GEOG 373 - Landscapes and Cultures of Latin America", "size":201232},
+            {"name": "GEOG 375 - Society and Spaces of South Asia","size":3209},
+            {"name": "GEOG 423 - Geography of American Popular Culture", "size":201232},
+            {"name": "GEOG 442 - Urban Spaces and Urban Society", "size":201232},
+            {"name": "GEOG 444 - The Age of Migration", "size":201232},
+            {"name": "GEOG 451 - The Global Economy", "size":201232},
+            {"name": "GEOG 462 - Geographies of Race and Racism", "size":201232}
+          ]
+        },
+      {"name": "Select 6 additional hours from 300-400 level geography courses", "size":4500}
+      ]
+      }
+    ]
+    },
+    {
+    "name":"World Cities and Economies Concentration",
+    "children":[
+      {
+      "name": "Prerequisites",
+      "children": [
+        {"name": "GEOG 132- Landscapes and Environmental Change", "size": 3486},
+        {
+          "name": "Select one course:",
+          "children": [
+            {"name":"GEOG 131- Weather, Climate, and Climate Change", "size":3813},
+            {"name":"GEOG 137- Honors: Weather, Climate, and Climate Change", "size":2478}
+          ]
+          },
+          {
+            "name": "Select one course:",
+            "children": [
+              {"name":"GEOG 101- World Geography","size":3467},
+              {"name":"GEOG 111- Our Digital Earth","size":3459},
+              {"name":"GEOG 121- Human Geography:People and Places","size":3589}
+            ]
+          }
+        ]
+      },
+      {
+      "name": "Major Requirements",
+      "children" : [
+        {"name": "GEOG 311- Geovisualization and Geographic Information Science","size": 1387},
+        {"name": "GEOG 415- Quantitative Methods in Geography ", "size":2390},
+        {"name": "GEOG 499- Practicing Geography", "size": 3409},
+        {
+          "name": "Select five courses (at least 15 hours)",
+          "children": [
+            {"name": "GEOG 340 - Economic Geography: Core Concepts", "size":9329},
+            {"name": "GEOG 341 - Contemporary Urban Spaces", "size": 4933},
+            {"name": "GEOG 374 - Emerging Landscapes of East Asia", "size":4303},
+            {"name": "GEOG 441 - Cities as Economic Engines", "size":40392},
+            {"name": "GEOG 442 - Urban Spaces and Urban Society", "size":4091},
+            {"name": "GEOG 444 - The Age of Migration", "size":3421},
+            {"name": "GEOG 445 - Cities in a World System", "size":201232},
+            {"name": "GEOG 446 - The Livable City","size":3209},
+            {"name": "GEOG 449 - Geography of Transportation", "size":201232},
+            {"name": "GEOG 451 - The Global Economy", "size":201232}
+          ]
+        },
+      {"name": "Select 6 additional hours from 300-400 level geography courses", "size":4500}
+      ]
+      }
+    ]
+    }
+  ]
+}
